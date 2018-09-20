@@ -2,6 +2,6 @@
 Bulacan State University
 Programmer: Bea Carmelli Balatbat
             Jose Manuel Guevarra
-            Luz Clarita S. lacap
+            Luz Clarita S. Lacap
             Arvin Gabriel R. Trinidad
            
